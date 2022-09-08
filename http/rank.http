@@ -1,0 +1,4 @@
+### 랭킹 조회
+
+GET {{host}}:{{port}}/ranks
+
